@@ -1,0 +1,7 @@
+provider,model,task_type,tool_use_required,passed,notes
+,,short factual response,,,
+,,summarization,,,
+,,structured JSON,,,
+,,tool use,,,
+,,multi step planning,,,
+,,coding or shell reasoning,,,
